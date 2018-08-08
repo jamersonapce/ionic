@@ -1,0 +1,7 @@
+{
+  "name": "projetoDiskDenuncia",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
